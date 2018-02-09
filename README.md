@@ -1,3 +1,3 @@
 # hello_world
-First github repo
+First github
 # test of github branch feature
